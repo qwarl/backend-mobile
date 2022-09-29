@@ -26,6 +26,9 @@ const Quotation = new Schema({
         type: String,
         // required: true
     },
+    carrier:{
+    },
+        type:String,
     of20: {
         type: String,
         // required: true
